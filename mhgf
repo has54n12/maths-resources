@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Class Resources</title>
+</head>
+<body>
+  <h1>Welcome to the Class Project!</h1>
+  <p>Click below for resources:</p>
+  
+  <ul>
+    <li><a href="https://slope-game.github.io/slope/" target="_blank">Unit 1 Project</a></li>
+    <li><a href="https://retro-bowl-game.github.io/" target="_blank">Unit 2 Research</a></li>
+    <li><a href="https://1v1lolunblocked.github.io/" target="_blank">Unit 1 Project</a></li>
+    <li><a href="https://flappybird.io/" target="_blank">Unit 2 Research</a></li>
+    <li><a href="https://moto-x3m.github.io/moto-x3m/" target="_blank">Unit 1 Project</a></li>
+  </ul>
+</body>
+</html>
